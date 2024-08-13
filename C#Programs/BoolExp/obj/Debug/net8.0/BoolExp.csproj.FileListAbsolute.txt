@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\bin\Debug\net8.0\BoolExp.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\bin\Debug\net8.0\BoolExp.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\bin\Debug\net8.0\BoolExp.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\bin\Debug\net8.0\BoolExp.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\bin\Debug\net8.0\BoolExp.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\BoolExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\BoolExp.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\BoolExp.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\BoolExp.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\BoolExp.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\refint\BoolExp.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\BoolExp.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\BoolExp.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BoolExp\obj\Debug\net8.0\ref\BoolExp.dll

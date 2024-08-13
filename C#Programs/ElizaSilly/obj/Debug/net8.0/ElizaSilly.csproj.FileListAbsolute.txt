@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\bin\Debug\net8.0\ElizaSilly.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\bin\Debug\net8.0\ElizaSilly.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\bin\Debug\net8.0\ElizaSilly.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\bin\Debug\net8.0\ElizaSilly.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\bin\Debug\net8.0\ElizaSilly.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\ElizaSilly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\ElizaSilly.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\ElizaSilly.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\ElizaSilly.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\ElizaSilly.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\refint\ElizaSilly.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\ElizaSilly.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\ElizaSilly.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ElizaSilly\obj\Debug\net8.0\ref\ElizaSilly.dll

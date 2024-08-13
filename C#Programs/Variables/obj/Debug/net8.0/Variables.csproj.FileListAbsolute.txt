@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Variables\obj\Debug\net8.0\ref\Variables.dll

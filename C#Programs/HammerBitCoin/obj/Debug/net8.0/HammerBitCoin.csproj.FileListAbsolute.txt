@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\bin\Debug\net8.0\HammerBitCoin.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\bin\Debug\net8.0\HammerBitCoin.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\bin\Debug\net8.0\HammerBitCoin.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\bin\Debug\net8.0\HammerBitCoin.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\bin\Debug\net8.0\HammerBitCoin.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\HammerBitCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\HammerBitCoin.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\HammerBitCoin.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\HammerBitCoin.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\HammerBitCoin.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\refint\HammerBitCoin.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\HammerBitCoin.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\HammerBitCoin.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HammerBitCoin\obj\Debug\net8.0\ref\HammerBitCoin.dll

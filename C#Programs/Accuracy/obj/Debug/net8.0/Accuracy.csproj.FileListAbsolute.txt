@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\Accuracy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\Accuracy.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\Accuracy.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\Accuracy.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\bin\Debug\net8.0\Accuracy.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\bin\Debug\net8.0\Accuracy.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\bin\Debug\net8.0\Accuracy.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\bin\Debug\net8.0\Accuracy.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\bin\Debug\net8.0\Accuracy.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\Accuracy.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\refint\Accuracy.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\Accuracy.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\Accuracy.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Accuracy\obj\Debug\net8.0\ref\Accuracy.dll

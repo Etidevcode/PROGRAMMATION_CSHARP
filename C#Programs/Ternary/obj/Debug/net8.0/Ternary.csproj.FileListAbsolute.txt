@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\bin\Debug\net8.0\Ternary.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\bin\Debug\net8.0\Ternary.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\bin\Debug\net8.0\Ternary.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\bin\Debug\net8.0\Ternary.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\bin\Debug\net8.0\Ternary.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\Ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\Ternary.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\Ternary.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\Ternary.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\Ternary.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\refint\Ternary.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\Ternary.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\Ternary.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\Ternary\obj\Debug\net8.0\ref\Ternary.dll

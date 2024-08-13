@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\bin\Debug\net8.0\GotoExample.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\bin\Debug\net8.0\GotoExample.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\bin\Debug\net8.0\GotoExample.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\bin\Debug\net8.0\GotoExample.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\bin\Debug\net8.0\GotoExample.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\GotoExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\GotoExample.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\GotoExample.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\GotoExample.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\GotoExample.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\refint\GotoExample.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\GotoExample.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\GotoExample.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\GotoExample\obj\Debug\net8.0\ref\GotoExample.dll

@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\HelloworldWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\HelloworldWin.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\HelloworldWin.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\HelloworldWin.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\bin\Debug\net8.0\HelloworldWin.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\bin\Debug\net8.0\HelloworldWin.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\bin\Debug\net8.0\HelloworldWin.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\bin\Debug\net8.0\HelloworldWin.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\bin\Debug\net8.0\HelloworldWin.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\HelloworldWin.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\refint\HelloworldWin.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\HelloworldWin.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\HelloworldWin.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\HelloworldWin\obj\Debug\net8.0\ref\HelloworldWin.dll

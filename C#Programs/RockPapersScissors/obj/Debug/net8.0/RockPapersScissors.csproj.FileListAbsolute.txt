@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\bin\Debug\net8.0\RockPapersScissors.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\bin\Debug\net8.0\RockPapersScissors.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\bin\Debug\net8.0\RockPapersScissors.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\bin\Debug\net8.0\RockPapersScissors.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\bin\Debug\net8.0\RockPapersScissors.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\RockPapersScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\RockPapersScissors.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\RockPapersScissors.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\RockPapersScissors.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\RockPapersScissors.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\refint\RockPapersScissors.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\RockPapersScissors.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\RockPapersScissors.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\RockPapersScissors\obj\Debug\net8.0\ref\RockPapersScissors.dll

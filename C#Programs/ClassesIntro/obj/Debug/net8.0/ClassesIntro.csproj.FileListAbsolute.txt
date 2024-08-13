@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\bin\Debug\net8.0\ClassesIntro.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\bin\Debug\net8.0\ClassesIntro.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\bin\Debug\net8.0\ClassesIntro.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\bin\Debug\net8.0\ClassesIntro.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\bin\Debug\net8.0\ClassesIntro.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\ClassesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\ClassesIntro.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\ClassesIntro.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\ClassesIntro.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\ClassesIntro.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\refint\ClassesIntro.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\ClassesIntro.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\ClassesIntro.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ClassesIntro\obj\Debug\net8.0\ref\ClassesIntro.dll

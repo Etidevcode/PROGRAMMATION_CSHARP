@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\bin\Debug\net8.0\BuiltinTypes.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\bin\Debug\net8.0\BuiltinTypes.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\bin\Debug\net8.0\BuiltinTypes.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\bin\Debug\net8.0\BuiltinTypes.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\bin\Debug\net8.0\BuiltinTypes.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\BuiltinTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\BuiltinTypes.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\BuiltinTypes.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\BuiltinTypes.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\BuiltinTypes.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\refint\BuiltinTypes.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\BuiltinTypes.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\BuiltinTypes.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\BuiltinTypes\obj\Debug\net8.0\ref\BuiltinTypes.dll

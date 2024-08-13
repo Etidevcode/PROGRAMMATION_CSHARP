@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ImmutableStrings2/1.0.0": {
+        "runtime": {
+          "ImmutableStrings2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImmutableStrings2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

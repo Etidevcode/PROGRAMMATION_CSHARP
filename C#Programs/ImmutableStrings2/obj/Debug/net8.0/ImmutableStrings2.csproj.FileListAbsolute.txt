@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\bin\Debug\net8.0\ImmutableStrings2.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\bin\Debug\net8.0\ImmutableStrings2.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\bin\Debug\net8.0\ImmutableStrings2.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\bin\Debug\net8.0\ImmutableStrings2.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\bin\Debug\net8.0\ImmutableStrings2.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\ImmutableStrings2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\ImmutableStrings2.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\ImmutableStrings2.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\ImmutableStrings2.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\ImmutableStrings2.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\refint\ImmutableStrings2.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\ImmutableStrings2.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\ImmutableStrings2.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\ImmutableStrings2\obj\Debug\net8.0\ref\ImmutableStrings2.dll

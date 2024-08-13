@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\bin\Debug\net8.0\StringEquality.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\bin\Debug\net8.0\StringEquality.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\bin\Debug\net8.0\StringEquality.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\bin\Debug\net8.0\StringEquality.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\bin\Debug\net8.0\StringEquality.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\StringEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\StringEquality.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\StringEquality.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\StringEquality.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\StringEquality.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\refint\StringEquality.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\StringEquality.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\StringEquality.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringEquality\obj\Debug\net8.0\ref\StringEquality.dll

@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\bin\Debug\net8.0\CarGame.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\bin\Debug\net8.0\CarGame.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\bin\Debug\net8.0\CarGame.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\bin\Debug\net8.0\CarGame.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\bin\Debug\net8.0\CarGame.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\CarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\CarGame.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\CarGame.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\CarGame.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\refint\CarGame.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\CarGame.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\CarGame.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\CarGame\obj\Debug\net8.0\ref\CarGame.dll

@@ -1,0 +1,14 @@
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\bin\Debug\net8.0\StringExamples2.exe
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\bin\Debug\net8.0\StringExamples2.deps.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\bin\Debug\net8.0\StringExamples2.runtimeconfig.json
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\bin\Debug\net8.0\StringExamples2.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\bin\Debug\net8.0\StringExamples2.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\StringExamples2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\StringExamples2.AssemblyInfoInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\StringExamples2.AssemblyInfo.cs
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\StringExamples2.csproj.CoreCompileInputs.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\StringExamples2.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\refint\StringExamples2.dll
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\StringExamples2.pdb
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\StringExamples2.genruntimeconfig.cache
+C:\Users\Caplogy_Data_002\Desktop\C#Programs\StringExamples2\obj\Debug\net8.0\ref\StringExamples2.dll
